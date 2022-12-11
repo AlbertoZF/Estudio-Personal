@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "72d8a1e9f9e46ab0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b6a8c09bb953715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8c5932e8306fe19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "816167a971751da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "39ece6473cf9bcf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ce35d2bca56cace",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69f0d0eec919e8ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f105b86a37167044",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2629e72620d1be96",
+    "type": "split",
+    "children": [
+      {
+        "id": "edf87c4b9007f862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab3f63de81168614",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02922751f4148adc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53453b4b7fc2820c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02ed041f49b2b686",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1ce35d2bca56cace",
+  "lastOpenFiles": [
+    "Jehová.md",
+    "Personas/Abiyam.md",
+    "Personas/Asá.md",
+    "Biblia/1 de los Reyes.md",
+    "Personas/David.md",
+    "Jesucristo.md",
+    "Miguel.md"
+  ]
+}

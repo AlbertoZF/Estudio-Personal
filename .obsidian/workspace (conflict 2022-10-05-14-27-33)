@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "72d8a1e9f9e46ab0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e01ccb5d68b304a1",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e072f3a5abb81c0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b687959d131f9a62",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2c9b1e3fbb47da03",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d947ceeb34292299",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "59d5bbc7904714b1",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9a22334bc811802c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "108d23b7370db27b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6704a671fe2757ba",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3afc2fc637af3620",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e01ccb5d68b304a1",
+  "lastOpenFiles": [
+    "Jehová.md",
+    "Personas/Abiyam.md",
+    "Personas/Asá.md",
+    "Biblia/1 de los Reyes.md",
+    "Personas/David.md",
+    "Jesucristo.md",
+    "Miguel.md"
+  ]
+}
